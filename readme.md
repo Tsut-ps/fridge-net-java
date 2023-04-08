@@ -39,7 +39,7 @@
 - サーバー側に保存するので、クライアント側が不正な方法でデータを変更できない。
 - クライアント側は、サーバーへ情報の送受信のみを行う。
 
-![image](https://user-images.githubusercontent.com/73014392/230713420-f70bbac6-2403-45c4-b2e7-7af481a8dfc0.png)
+![image](https://user-images.githubusercontent.com/73014392/230713758-037057dc-99e3-4872-9c6f-54cead97ac02.png)
 
 ### 工夫した点
 
