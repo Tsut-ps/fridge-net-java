@@ -1,4 +1,6 @@
-# 冷蔵庫の品を保存する通信型アプリ
+# 冷蔵庫の品を保存する通信型アプリ（CUI）
+
+![image](https://user-images.githubusercontent.com/73014392/230713467-10e13b07-972c-4057-9742-024ec44faf8e.png)
 
 ## これ is 何
 
@@ -36,6 +38,8 @@
 
 - サーバー側に保存するので、クライアント側が不正な方法でデータを変更できない。
 - クライアント側は、サーバーへ情報の送受信のみを行う。
+
+![image](https://user-images.githubusercontent.com/73014392/230713420-f70bbac6-2403-45c4-b2e7-7af481a8dfc0.png)
 
 ### 工夫した点
 
