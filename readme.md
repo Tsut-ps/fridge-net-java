@@ -28,7 +28,7 @@
 
 ## 使用方法とスクリーンショット
 
-使用方法や実際の画像は [Wiki](https://github.com/Tsut-ps/fridge-net-java) に記載しています。
+使用方法や実際の画像は [Wiki](https://github.com/Tsut-ps/fridge-net-java/wiki) に記載しています。
 
 ## 詳しい仕様
 
